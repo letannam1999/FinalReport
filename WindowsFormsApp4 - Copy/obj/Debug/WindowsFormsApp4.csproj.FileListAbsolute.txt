@@ -1,0 +1,40 @@
+C:\Users\Admin\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Admin\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Admin\source\repos\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Manager.resources
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.welcom.resources
+C:\Users\Admin\source\repos\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.welcom.resources
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Information.resources
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.ContactL.resources
+C:\Users\Nitro 5\Downloads\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.UpdatePosition.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\bin\Debug\WindowsFormsApp4.exe
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.Contactl.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.Information.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.UpdatePosition.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.welcom.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.exe
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\WindowsFormsApp4.MainScreen.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\FireApp.form1.resources
+C:\Users\84931\Desktop\WindowsFormsApp4 - Copy\obj\Debug\FireApp.Form2.resources
